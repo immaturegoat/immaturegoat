@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hi! I'm immaturegoat, and I'm a software developer in high school. I'm open to any sort of communication. You can find my contact information below! I'm code in python, java, and do front-end web development. You can check out my personal website [here](https://immaturegoat.github.io/), though its due for renovations soon. 
+Hi! I'm immaturegoat, and I'm a software developer in high school. I'm open to any sort of communication! You can find my contact information below! I'm code in python, java, and do front-end web development. You can check out my personal website [here](https://immaturegoat.github.io/), though its due for renovations soon. 
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,pycharm,idea,vscode)](https://skillicons.dev)
 
