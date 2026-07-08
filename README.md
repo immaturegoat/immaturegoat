@@ -11,15 +11,10 @@
   <li><p>I mostly do Python, Java, and front-end dev</p></li>
   
   [![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js)](https://skillicons.dev)
-
-  <li><p>I use PyCharm, IntelliJ IDEA, and VS Code!</p></li>
-
-  [![My Skills](https://skillicons.dev/icons?i=pycharm,idea,vscode)](https://skillicons.dev)
   
-  <li><p>You can find my website <a href="https://octaviustheking.github.io" target="_blank">here!</a> I'm planning to do heavy renovatiosn to it soon though. It's a bit outdated.</p></li>
+  <li><p>You can find my website <a href="https://octaviustheking.github.io" target="_blank">here!</a> I'm planning to do heavy renovations to it soon though. It's a bit outdated.</p></li>
   <li><p>I'm open to any communication! You can find my contact info down below and in my website!</p></li>
   <li><p>Trying to get a job in software T-T (I'm cooked)</p>
-  <li><p>manga > anime</p></li>
 
 </ul>
 
@@ -31,16 +26,6 @@
  - <a href="https://github.com/NeoRazer504">NeoRazer</a>
  - <a href="https://github.com/kamishiro-624">kamishiro</a>
  - <a href="https://github.com/VR00M-Vroom">VR00M-Vroom</a>
-
----
-<h2>Currently</h2>
-<ul>
-  <li><p>currently reading The Ramparts of Ice</p></li>
-  <li><p>currently watching Bocchi the Rock!</p></li>
-  <li><p>currently working on Goa (check it out in my pinned projects)</p></li>
-  <li><p>currently "studying" for codeforces (USACO silver!!)</p></li>
-  <li><p>currently playing limbus company, stellaris, and overwatch</p></li>
-</ul>
 
 ---
 <h2>Contact</h2>
