@@ -1,6 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&multiline=false&width=1000&lines=Heya!+%F0%9F%91%8B;I'm+ImmatureGoat!;I+do+Java%2C+Python%2C+and+Web+Development!" alt="Heya! 👋 I'm ImmatureGoat!" /></a>
 
 ---
+
 <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=19259&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8">
 
 ---
