@@ -7,7 +7,7 @@ Hi! I'm immaturegoat, and I'm a software developer in high school. I'm open to a
 [![My Skills](https://skillicons.dev/icons?i=python,rust,html,css,js,pycharm,neovim,vscode)](https://skillicons.dev)
 
 ### Contact
-<p>Email: <a href="mailto:immatureninjagoat@gmail.com">immatureninjagoat@gmail.com</a> • Discord: immaturegoat</p>
+<p>Email: <a href="mailto:immatureninjagoat@gmail.com">immatureninjagoat@gmail.com</a> • Discord: immaturegoat <- I mainly communicate on Discord</p>
 <img src="https://skillicons.dev/icons?i=gmail,discord"/>
 
 ### Profile Views
